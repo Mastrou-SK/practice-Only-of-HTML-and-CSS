@@ -31,7 +31,7 @@ body {
       /* phone */
 @media(max-width:574px) {
     .container {
-     width: 315px;
+     width: 335px;
     }
 }
 @media(min-width:375px){
