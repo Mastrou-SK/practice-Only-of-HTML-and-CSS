@@ -29,6 +29,11 @@ body {
     padding-right: 15px;
 }
       /* phone */
+@media(max-width:574px) {
+    .container {
+     width: 340px;
+    }
+}
 @media(min-width:375px){
     .container {
      width: 340px;
