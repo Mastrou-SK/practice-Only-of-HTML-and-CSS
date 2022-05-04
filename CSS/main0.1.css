@@ -31,7 +31,7 @@ body {
       /* phone */
 @media(max-width:574px) {
     .container {
-     width: 335px;
+     width: 340px;
     }
 }
 @media(min-width:375px){
@@ -119,6 +119,11 @@ header nav .icon-Burger {
     flex-wrap: wrap;
     justify-content: flex-end;
 }
+@media(max-width:371px) {
+    .icon-Burger {
+        margin-right: 15px;
+    }
+}    
 header nav .icon-Burger span {
     background-color: #333;
     margin-bottom: 5px;
